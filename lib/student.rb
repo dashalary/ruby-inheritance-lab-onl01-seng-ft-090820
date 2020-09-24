@@ -6,7 +6,7 @@ def initialize
 end 
 
 def learn
-  @knowledge << "string"
+  @knowledge << Teacher.
 end 
 
 def knowledge 
