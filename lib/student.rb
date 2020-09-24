@@ -5,7 +5,7 @@ def initialize(knowledge)
   @knowledge = []
 end
 
-def learn("string")
+def learn
   @knowledge << "string"
 end 
 
