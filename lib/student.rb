@@ -6,7 +6,6 @@ def initialize
 end 
 
 def learn(string)
- string = Teacher.teach 
  @knowledge << string
 end 
 
