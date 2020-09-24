@@ -1,3 +1,3 @@
-class Student 
+class Student < Teacher
 
 end
