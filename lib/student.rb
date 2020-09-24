@@ -5,8 +5,9 @@ def initialize
 @knowledge = []
 end 
 
-def learn(knowledge)
-  @knowledge << Teacher.teach
+def learn(string)
+ string = Teacher.teach 
+ @knowledge << string
 end 
 
 def knowledge 
